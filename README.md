@@ -1,3 +1,9 @@
-# Welcome to your Lovable project
+# Vite + React + TypeScript + Tailwind
 
-TODO: Document your project here
+Proyecto web basado en Vite, React 18, TypeScript y Tailwind CSS.
+
+## Scripts
+- npm run dev
+- npm run build
+- npm run preview
+- npm run lint
